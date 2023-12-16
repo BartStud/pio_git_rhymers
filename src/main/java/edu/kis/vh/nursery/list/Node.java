@@ -10,4 +10,4 @@ public class Node {
 	}
 
 }
-//kombinacja Alt + -> lub Alt + <- pozwala na skakanie pomiędzy plikami
+//kombinacja Alt + -> lub Alt + <- pozwala na skakanie pomiędzy ostatnio edytowanymi plikami
