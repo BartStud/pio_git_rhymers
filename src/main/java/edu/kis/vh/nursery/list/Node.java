@@ -8,5 +8,6 @@ public class Node {
 	public Node(int i) {
 		value = i;
 	}
-	
+
 }
+//kombinacja Alt + -> lub Alt + <- pozwala na skakanie pomiędzy ostatnio edytowanymi plikami
